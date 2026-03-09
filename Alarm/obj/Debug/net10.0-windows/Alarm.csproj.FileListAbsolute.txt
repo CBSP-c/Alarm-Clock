@@ -1,0 +1,17 @@
+C:\Users\CBSP\source\repos\Alarm\Alarm\bin\Debug\net10.0-windows\Alarm.exe
+C:\Users\CBSP\source\repos\Alarm\Alarm\bin\Debug\net10.0-windows\Alarm.deps.json
+C:\Users\CBSP\source\repos\Alarm\Alarm\bin\Debug\net10.0-windows\Alarm.runtimeconfig.json
+C:\Users\CBSP\source\repos\Alarm\Alarm\bin\Debug\net10.0-windows\Alarm.dll
+C:\Users\CBSP\source\repos\Alarm\Alarm\bin\Debug\net10.0-windows\Alarm.pdb
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.Form1.resources
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.csproj.GenerateResource.cache
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.AssemblyInfoInputs.cache
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.AssemblyInfo.cs
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.dll
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\refint\Alarm.dll
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.pdb
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.genruntimeconfig.cache
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\ref\Alarm.dll
+C:\Users\CBSP\source\repos\Alarm\Alarm\obj\Debug\net10.0-windows\Alarm.Form2.resources
